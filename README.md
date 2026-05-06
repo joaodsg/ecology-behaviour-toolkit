@@ -53,3 +53,6 @@ This toolkit is designed for:
 - More behaviour metrics
 - Ethogram visualisation
 - Individual‑level summaries
+
+## Data from:  
+Rauber, Ramona; Clutton-Brock, Tim H.; Manser, Marta B. (2019). Data from: Drought decreases cooperative sentinel behaviour and affects vocal coordination in meerkats [Dataset]. Dryad. https://doi.org/10.5061/dryad.1s73fc5
